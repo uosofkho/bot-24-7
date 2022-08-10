@@ -1,0 +1,3 @@
+https://uptimerobot.com/
+https://discordjs.guide/creating-your-bot/#creating-the-main-file
+https://replit.com/
